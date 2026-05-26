@@ -1,6 +1,8 @@
-26-05-15 09:22:56 [main] INFO  c.e.c.ComplianceServiceApplication - Starting ComplianceServiceApplication using Java 21.0.2 with PID 18024 (C:\Users\2479791\Documents\Project\Backend\compliance-service\target\classes started by 2479791 in C:\Users\2479791\Documents\Project\Backend)
-26-05-15 09:22:56 [main] DEBUG c.e.c.ComplianceServiceApplication - Running with Spring Boot v3.2.6, Spring v6.1.8
-26-05-15 09:22:56 [main] INFO  c.e.c.ComplianceServiceApplication - No active profile set, falling back to 1 default profile: "default"
-26-05-15 09:23:52 [main] DEBUG c.e.c.config.JwtFilter - Filter 'jwtFilter' configured for use
-26-05-15 09:24:05 [main] INFO  c.e.c.ComplianceServiceApplication - Started ComplianceServiceApplication in 69.441 seconds (process running for 70.576)
-26-05-15 10:48:49 [http-nio-8086-exec-10] ERROR c.e.c.exception.GlobalExceptional - Token in valid [409] during [POST] to [http://IDENTITY-SERVICE/compliance/identity/create-school] [SchoolClient#createSchool(SchoolDto)]: [{"success":false,"message":"School with ID SCHOOL4 already exists","data":null}]
+26-05-26 22:37:22 [main] INFO  c.e.c.ComplianceServiceApplication - Starting ComplianceServiceApplication using Java 21.0.11 with PID 2284 (C:\Users\adity\OneDrive\Desktop\Edulink-Project-test\Edulink-Project-test\Backend\compliance-service\target\classes started by adity in C:\Users\adity\OneDrive\Desktop\Edulink-Project-test\Edulink-Project-test\Backend)
+26-05-26 22:37:22 [main] DEBUG c.e.c.ComplianceServiceApplication - Running with Spring Boot v3.2.6, Spring v6.1.8
+26-05-26 22:37:22 [main] INFO  c.e.c.ComplianceServiceApplication - No active profile set, falling back to 1 default profile: "default"
+26-05-26 22:40:42 [main] INFO  c.e.c.ComplianceServiceApplication - Starting ComplianceServiceApplication using Java 21.0.11 with PID 26776 (C:\Users\adity\OneDrive\Desktop\Edulink-Project-test\Edulink-Project-test\Backend\compliance-service\target\classes started by adity in C:\Users\adity\OneDrive\Desktop\Edulink-Project-test\Edulink-Project-test\Backend)
+26-05-26 22:40:42 [main] DEBUG c.e.c.ComplianceServiceApplication - Running with Spring Boot v3.2.6, Spring v6.1.8
+26-05-26 22:40:42 [main] INFO  c.e.c.ComplianceServiceApplication - No active profile set, falling back to 1 default profile: "default"
+26-05-26 22:40:53 [main] DEBUG c.e.c.config.JwtFilter - Filter 'jwtFilter' configured for use
+26-05-26 22:41:00 [main] INFO  c.e.c.ComplianceServiceApplication - Started ComplianceServiceApplication in 19.203 seconds (process running for 19.826)
